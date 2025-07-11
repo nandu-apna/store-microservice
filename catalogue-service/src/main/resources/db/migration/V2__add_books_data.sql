@@ -1,4 +1,4 @@
--- Insert book products with realistic image URLs
+
 INSERT INTO products(code, name, description, image_url, price) VALUES
 ('P201','The Wanderer’s Tale','An epic journey through uncharted lands, filled with mystery and courage.',
  'https://images.pexels.com/photos/45201/pexels-photo-45201.jpeg', 19.99),
