@@ -1,0 +1,22 @@
+
+INSERT INTO products(code, name, description, image_url, price) VALUES
+('P201','The Wanderer’s Tale','An epic journey through uncharted lands, filled with mystery and courage.',
+ 'https://images.pexels.com/photos/45201/pexels-photo-45201.jpeg', 19.99),
+('P202','Secrets of the Cosmos','A deep dive into the wonders and enigmas of the universe.',
+ 'https://images.pexels.com/photos/590493/pexels-photo-590493.jpeg', 24.50),
+('P203','Legends of the Seas','Sail the high seas with captivating tales of adventure and treasure.',
+ 'https://images.pexels.com/photos/290474/pexels-photo-290474.jpeg', 21.00),
+('P204','Whispers at Midnight','A gripping thriller that keeps you guessing until the final page.',
+ 'https://images.pexels.com/photos/3771112/pexels-photo-3771112.jpeg', 17.80),
+('P205','The Emerald Forest','Step into a fantasy world full of magic, creatures, and hidden kingdoms.',
+ 'https://images.pexels.com/photos/221164/pexels-photo-221164.jpeg', 22.99),
+('P206','The Artisan’s Journey','Beautifully illustrated story of art, passion, and self-discovery.',
+ 'https://images.pexels.com/photos/159711/book-colorful-pages-literature-159711.jpeg', 29.95),
+('P207','Science of Tomorrow','Explores the latest breakthroughs in science and technology shaping our world.',
+ 'https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg', 26.75),
+('P208','Memoirs of a Traveler','Personal and vivid travel experiences from around the globe.',
+ 'https://images.pexels.com/photos/1112045/pexels-photo-1112045.jpeg', 18.65),
+('P209','City Lights','A poetic and nostalgic collection set in an urban landscape.',
+ 'https://images.pexels.com/photos/207596/pexels-photo-207596.jpeg', 14.20),
+('P210','Tales Around the Fire','Short stories full of warmth, wisdom, and life lessons.',
+ 'https://images.pexels.com/photos/46274/pexels-photo-46274.jpeg', 16.40);
